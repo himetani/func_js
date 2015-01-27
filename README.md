@@ -1,2 +1,2 @@
 # func_js
-For practice functional javascript
+To practice functional javascript
