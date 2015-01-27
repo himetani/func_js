@@ -1,9 +1,10 @@
+{
   "name": "func_js",
   "version": "1.0.0",
   "description": "To practice functional javascript",
-  "main": "addArrayElemnt.js",
+  "main": "addArrayElement.js",
   "dependencies": {
-    "underscore": "^1.7.0"
+    "lodash": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
